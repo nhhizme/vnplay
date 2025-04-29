@@ -35,3 +35,7 @@ http://p1.cvtv.xyz/htv7?token=live
 http://p1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 group-title="HTV" tvg-id="htvthethaohd" tvg-logo="https://raw.githubusercontent.com/nhhizme/vnplay/refs/heads/main/logo/htvthethao.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao HD
 http://p1.cvtv.xyz/htvtt?token=live
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/nhhizme/vnplay/refs/heads/main/logo/thp.png",THP HD - TH Hải Phòng 
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-id="haiphongplus" group-title="Địa phương" tvg-logo="https://raw.githubusercontent.com/nhhizme/vnplay/refs/heads/main/logo/thp+.png", THP+ HD - TH Hải Phòng
+https://xem.TruyenHinh.Click/CoBan/120/TuyetDoiKhongKinhDoanh.m3u8
