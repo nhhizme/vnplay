@@ -36,31 +36,23 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="onechannel" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=202&time=${start}&offset=${duration}", ON E- Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/ON_Sports%2B_logo_17-05-2023.png/revision/latest/scale-to-width-down/1000?cb=20241130102723&path-prefix=vi",VTVCab 6 - ON Sports+
 https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsplus
-#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}", On O2TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="ono2tv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=27&time=${start}&offset=${duration}",VTVCab 7 - ON O2TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=205&time=${start}&offset=${duration}", On BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="onbibi" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg",VTVCab 8 - ON BiBi
 https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=437&time=${start}&offset=${duration}", ON Info TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="oninfotv" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg",VTVCab 9 - ON Info TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="oncine" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/44/ON_Cine_logo_b%E1%BA%A3n_2.png/revision/latest?cb=20250517032358&format=original&path-prefix=vi",VTVCab 10 - ON Cine
 https://xem.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="onstyle" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg",VTVCab 14 - ON Style TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="onmusic" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_640_360.png",VTVCab 15 - ON Music
 https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://rg.hoangducanh.site/vtvcab16hd
-#EXTINF:0 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="", ON TRENDING TV
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi" catchup="append",VTVCab 16 - ON Football HD
+https://xem.TruyenHinh.Click/CoBan/vtvcab16hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="ontrending" type="stream" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/ON_Trending_TV.png/revision/latest?cb=20250401154338&path-prefix=vi",VTVCab 17 - ON Trending TV
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest?cb=20220403050655&path-prefix=vi",VTVCab 18 - ON Sports News
 https://xem.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh.m3u8
