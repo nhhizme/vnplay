@@ -61,4 +61,41 @@ https://sgchill.io.vn/360/175/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?oid=onsports
 #EXTINF:0,ON Movies HD - YouTV
 https://sgchill.io.vn/360/181/index.m3u8
-#EXTINF:0,ON 
+#EXTINF:0,ON E-Channel HD
+https://sgchill.io.vn/360/182/index.m3u8
+#EXTINF:0,ON Sports+ HD
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTINF:0,ON O2TV HD
+https://sgchill.io.vn/360/136/index.m3u8
+#EXTINF:0,ON BiBi HD
+https://sgchill.io.vn/360/178/index.m3u8
+#EXTINF:0,ON Info TV HD
+https://sgchill.io.vn/360/189/index.m3u8
+#EXTINF:0,ON Cine HD
+https://sgchill.io.vn/360/176/index.m3u8
+#EXTINF:0,ON Style TV HD
+https://sgchill.io.vn/360/184/index.m3u8
+#EXTINF:0,ON Music HD
+https://sgchill.io.vn/360/185/index.m3u8
+#EXTINF:0,ON Football HD
+https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+#EXTINF:0,ON Trending TV HD
+https://sgchill.io.vn/360/186/index.m3u8
+#EXTINF:0,ON Sports News HD
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:0,ON Vie Dramas HD
+https://sgchill.io.vn/360/177/index.m3u8
+#EXTINF:0,ON VFamily HD
+https://sgchill.io.vn/360/187/index.m3u8
+#EXTINF:0,ON Kids HD
+https://sgchill.io.vn/360/179/index.m3u8
+#EXTINF:0,ON Life HD
+https://sgchill.io.vn/360/188/index.m3u8
+#EXTINF:0,ON Golf HD
+https://sgchill.io.vn/360/169/index.m3u8
+#EXTINF:0,BTV9 - An Viên TV HD
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,THP HD - TH Hải Phòng
+https://sgchill.io.vn/360/60/index.m3u8
+#EXTINF:0,THP+ HD - TH Hải Phòng
+https://sgchill.io.vn/360/9832/index.m3u8
